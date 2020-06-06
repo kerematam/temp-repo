@@ -5,6 +5,6 @@
 5th line ---
 6th line ---
 7th line ---
-8 from other friend
-9 from other friend
-10 from other friend
+8
+9
+10
