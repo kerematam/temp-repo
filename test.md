@@ -2,6 +2,6 @@
 2nd line
 3rd line from test2 branch
 4th line
-5 ---
-6 ---
-7 ---
+5th line ---
+6th line ---
+7th line ---
